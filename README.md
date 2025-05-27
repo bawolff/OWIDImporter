@@ -1,3 +1,5 @@
+This repo has been superceeded by https://github.com/wpmed-videowiki/OWIDImporter
+
 # OWIDImporter
 
 This is a simple tool to import freely licensed OWID graphs into Wikimedia Commons.
